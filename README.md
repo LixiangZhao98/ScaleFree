@@ -19,9 +19,9 @@ Any pull requests and issues are welcome. If you find it useful, could you pleas
 - `Assets/PointCloud-Visualization-Tool/scenes/KernelDensityEstimation.unity` is the demo scene.
 
 # Control
-- Press `Start` and you can see the real-time iso-surface reconstruction of the density estimation (Marching Cubes).
-- To switch the dataset, click the DataObject in hierarchy, click `DataLoader` child gameObject and change variable `datasets in project` in the inspector window. 
-- To change MarchingCube threshold, click the DataObject in hierarchy, click `MarchingCube` child gameObject and adjust the variable `MC Threshold` in the inspector window.
+- To select the dataset, click the Data gameObject in hierarchy and change variable `datasets in project` in the inspector window. 
+- Start the game and you can see the real-time iso-surface reconstruction of the density estimation as the following figure (Marching Cubes).
+- To change MarchingCube threshold, unfold the Data gameObject in hierarchy, click `MarchingCube` child gameObject and adjust the variable `MC Threshold` in the inspector window.
 
 ![Image](https://github.com/LixiangZhao98/asset/blob/master/Project/ScaleFree/pic/demo.png "Image")
 
