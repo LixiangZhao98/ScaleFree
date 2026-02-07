@@ -9,6 +9,10 @@ ScaleFree: Dynamic KDE for Multiscale Point Cloud Exploration in VR
 ScaleFree is a a GPU-accelerated adaptive Kernel Density Estimation (KDE) algorithm for scalable, interactive multiscale point cloud exploration. Refer to the [Video(coming soon)]( "Video") for a quick review. For more details, please refer to our [Paper(coming soon)]("Paper") (ScaleFree: Dynamic KDE for Multiscale Point Cloud Exploration in VR), which will be presented on [IEEE VR 2026](https://ieeevr.org/2026/ "VR2026").\
 Any pull requests and issues are welcome. If you find it useful, could you please give a star? Thanks in advance.
 
+# Requirements
+- Windows platform
+- Unity 3D (version>2019)
+
 # Install the project and Play the demo
 - Download Unity Hub. Please refer to sec.1-4 in [tutorial](https://github.com/LixiangZhao98/asset/blob/master/Tutorial/Unity_Setup_General.pdf) if you are a new Unity user.
 - Clone the repo or download the archive [https://github.com/ScaleFree/archive/refs/heads/master.zip](https://github.com/LixiangZhao98/ScaleFree/archive/refs/heads/master.zip "archive") and open the project using Unity (versions equal to/higher than 2019 have been tested). Please refer to sec.6 in [tutorial](https://github.com/LixiangZhao98/asset/blob/master/Tutorial/Unity_Setup_General.pdf) if you don't know how to open an existing project.
